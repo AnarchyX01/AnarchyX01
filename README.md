@@ -7,11 +7,11 @@
 Hi there, i'm Kahraman. I usually code and develop new projects (games, websites, discord bots and etc.), listening to music, play the piano and read novels. I started software development a year and a half ago with learning JavaScript. Now, i'm a Python, JavaScript/NodeJS and TypeScript developer and i continue with learning C++, Web Development and Cyber Security
 
 <div align="center">
-    <a href="https://discord.com/users/825812253331816458" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/825812253331816458"></a>
+    <a href="https://discord.com/users/809325505304068096" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/809325505304068096"></a>
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/935560806660177950" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/935560806660177950"></a>
+    <a href="https://discord.com/users/624914071984013313" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/624914071984013313"></a>
 </div>
 
 ## 💻 Languages And Tools

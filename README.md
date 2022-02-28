@@ -1,7 +1,7 @@
 # ✨ Hi, I am Anarchy
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=' ✯ Anarchy&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=Anarchy&color=blue"/>
 </div>  
 
 Hi there, i'm Kahraman. I usually code and develop new projects (games, websites, discord bots and etc.), listening to music, play the piano and read novels. I started software development a year and a half ago with learning JavaScript. Now, i'm a Python, JavaScript/NodeJS and TypeScript developer and i continue with learning C++, Web Development and Cyber Security

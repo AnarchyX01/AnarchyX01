@@ -10,10 +10,6 @@ Hi there, i'm Kahraman. I usually code and develop new projects (games, websites
     <a href="https://discord.com/users/825812253331816458" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/825812253331816458"></a>
 </div>
 
-<div align="center">
-    <a href="https://discord.com/users/624914071984013313" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/624914071984013313"></a>
-</div>
-
 ## 💻 Languages And Tools
 
 <div align="center">
@@ -29,13 +25,13 @@ Hi there, i'm Kahraman. I usually code and develop new projects (games, websites
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnarchyX16&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnarchyX01&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px">
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
     <a href="https://discord.com/users/825812253331816458" target="_blank"><img src="https://img.shields.io/badge/-Anarchy-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/AnarchyX16" target="_blank"><img src="https://img.shields.io/badge/-AnarchyX16-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/AnarchyX01" target="_blank"><img src="https://img.shields.io/badge/-AnarchyX16-black?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://discord.gg/marmara" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
